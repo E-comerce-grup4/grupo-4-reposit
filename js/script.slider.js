@@ -27,7 +27,7 @@
                                 $(this).removeClass('fadeInRight animated');
                             }); 
                         });
-                    }, 500);                                
+                    }, 100);                                
                 }
             });
             //slider.reloadSlider();
